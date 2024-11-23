@@ -73,7 +73,4 @@ if mes2 > 1:
 
 diaFinal += dia2
 dias = diaFinal - dia0
-if mes1 > mes2:
-    print('data invalida')
-
 print('Passaram-se {} dias entre as datas.'.format(dias))
