@@ -1,3 +1,4 @@
+#atividade concluída por Ryan Guilherme
 hi         = int(input('Qual a hora da partida?'))
 mi         = int(input('Qual o minuto da partida?'))
 hf         = int(input('Qual a hora da chegada?'))
